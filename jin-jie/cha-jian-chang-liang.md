@@ -5,7 +5,7 @@
 在入门的[工作流](../ru-men/gong-zuo-liu.md)一章中我们已经学习过了输出变量（电影名称）的引用，另外我们在交互各类网页的时候，不免会遇到输入钱包地址和代币数量的时候，指纹猎手提供了以下系统常量供输入进行配置：
 
 {% hint style="info" %}
-常量在引用的时候需要输入为**@\[常量名]\(常量名)**，方便与普通输入进行区分，即引用metamask\_account需要输入**@\[metamask\_account]\(metamask\_account)**
+常量在引用的时候需要输入&#x4E3A;**@\[常量名]\(常量名)**，方便与普通输入进行区分，即引用metamask\_account需要输&#x5165;**@\[metamask\_account]\(metamask\_account)**
 {% endhint %}
 
 #### 地址
