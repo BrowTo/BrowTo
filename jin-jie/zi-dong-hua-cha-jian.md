@@ -14,7 +14,7 @@
 
 ### 第二步：测试脚本
 
-前往脚本市场，下载**MetaMask添加指定网络**插件，然后回到对该脚本进行配置，可以看到，由于我们全局配置了窗口、并发数和MetaMask解锁密码，所有我们只剩下网络名称还未配置，我们在网络名称中填写Polygon Mainnet：
+前往脚本市场，下载**MetaMask添加指定网络**插件，然后回到对该脚本进行配置，可以看到，由于我们全局配置了窗口、并发数和MetaMask解锁密码，所有我们只剩下网络名称还未配置，我们在网络名称中填写Polygon Mainnet （或者其他你的MetaMask还没有添加的网络）：
 
 <figure><img src="../.gitbook/assets/WX20240309-221754@2x.png" alt=""><figcaption></figcaption></figure>
 
